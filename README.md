@@ -1,4 +1,5 @@
 Hello everyone!
+
 Name's Radek. Just short from Radoslaw :)
 My main purpose is to step into enviroment of energetic web/software developers.
 I changed my whole career. First being as lifeguard at swimming pools, sea, lakes and scout camps during studies. The studies were concerning about optimazing...mostly production systems. Then I tried automotive. The goal was to gain experience in that field, which would help me with studies and studies would help me with promotion at work.
